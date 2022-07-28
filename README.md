@@ -2,6 +2,26 @@
 
 Thank you JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT
 
+Hardware components
+
+JLCPCB Customized PCB ×	1	
+
+NE555 Timer through hole ×	1	
+
+IC socket 8 pins 2.54mm through hole ×	1	
+
+Male Header 40 Position 1 Row (0.1") ×	1	
+
+Capacitor 10 nF ×	2	
+
+0.25W 1000 Ohm Resistor ×	1
+
+Hand tools and fabrication machines
+
+Soldering iron (generic)	
+
+Solder Wire, Lead Free
+
 This project is about making a simple 555 Timer circuit with only 1 resistor and 2 capacitors. Use a ceramic capacitor for C2.
 
 I would also like to thank the online community for sharing the schematic to build the circuit.
